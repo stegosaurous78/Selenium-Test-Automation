@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="HandsOn/HandsOn.csproj" Id="47e6f648-1aeb-4899-a4db-e681ea287b27" />
   <Project Path="SeleniumTest/SeleniumTest.csproj" />
 </Solution>
