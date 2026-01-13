@@ -3,8 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\SWETA HOME\\OneDrive\\Desktop\\Selenium-Test-Automation\\SeleniumTestAutomation\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0C660843-99C1-48A9-BCC9-DB790090AF6D}|SeleniumTest\\SeleniumTest.csproj|c:\\users\\sweta home\\onedrive\\desktop\\selenium-test-automation\\seleniumtestautomation\\seleniumtest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C660843-99C1-48A9-BCC9-DB790090AF6D}|SeleniumTest\\SeleniumTest.csproj|solutionrelative:seleniumtest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D224E0EE-1435-33C2-A2B5-225544B139D6}|SeleniumTest\\SeleniumTest.csproj|c:\\users\\sweta home\\onedrive\\desktop\\selenium-test-automation\\seleniumtestautomation\\seleniumtest\\projects\\sortwebtables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D224E0EE-1435-33C2-A2B5-225544B139D6}|SeleniumTest\\SeleniumTest.csproj|solutionrelative:seleniumtest\\projects\\sortwebtables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D224E0EE-1435-33C2-A2B5-225544B139D6}|SeleniumTest\\SeleniumTest.csproj|c:\\users\\sweta home\\onedrive\\desktop\\selenium-test-automation\\seleniumtestautomation\\seleniumtest\\projects\\alertactionsautosuggestive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D224E0EE-1435-33C2-A2B5-225544B139D6}|SeleniumTest\\SeleniumTest.csproj|solutionrelative:seleniumtest\\projects\\alertactionsautosuggestive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D224E0EE-1435-33C2-A2B5-225544B139D6}|SeleniumTest\\SeleniumTest.csproj|c:\\users\\sweta home\\onedrive\\desktop\\selenium-test-automation\\seleniumtestautomation\\seleniumtest\\seleniumtest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D224E0EE-1435-33C2-A2B5-225544B139D6}|SeleniumTest\\SeleniumTest.csproj|solutionrelative:seleniumtest\\seleniumtest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D224E0EE-1435-33C2-A2B5-225544B139D6}|SeleniumTest\\SeleniumTest.csproj|c:\\users\\sweta home\\onedrive\\desktop\\selenium-test-automation\\seleniumtestautomation\\seleniumtest\\e2etest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D224E0EE-1435-33C2-A2B5-225544B139D6}|SeleniumTest\\SeleniumTest.csproj|solutionrelative:seleniumtest\\e2etest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D224E0EE-1435-33C2-A2B5-225544B139D6}|SeleniumTest\\SeleniumTest.csproj|c:\\users\\sweta home\\onedrive\\desktop\\selenium-test-automation\\seleniumtestautomation\\seleniumtest\\functionaltest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D224E0EE-1435-33C2-A2B5-225544B139D6}|SeleniumTest\\SeleniumTest.csproj|solutionrelative:seleniumtest\\functionaltest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D224E0EE-1435-33C2-A2B5-225544B139D6}|SeleniumTest\\SeleniumTest.csproj|c:\\users\\sweta home\\onedrive\\desktop\\selenium-test-automation\\seleniumtestautomation\\seleniumtest\\locators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D224E0EE-1435-33C2-A2B5-225544B139D6}|SeleniumTest\\SeleniumTest.csproj|solutionrelative:seleniumtest\\locators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D224E0EE-1435-33C2-A2B5-225544B139D6}|SeleniumTest\\SeleniumTest.csproj|c:\\users\\sweta home\\onedrive\\desktop\\selenium-test-automation\\seleniumtestautomation\\seleniumtest\\file.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D224E0EE-1435-33C2-A2B5-225544B139D6}|SeleniumTest\\SeleniumTest.csproj|solutionrelative:seleniumtest\\file.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,20 +41,99 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Locators.cs",
+              "DocumentMoniker": "C:\\Users\\SWETA HOME\\OneDrive\\Desktop\\Selenium-Test-Automation\\SeleniumTestAutomation\\SeleniumTest\\Locators.cs",
+              "RelativeDocumentMoniker": "SeleniumTest\\Locators.cs",
+              "ToolTip": "C:\\Users\\SWETA HOME\\OneDrive\\Desktop\\Selenium-Test-Automation\\SeleniumTestAutomation\\SeleniumTest\\Locators.cs",
+              "RelativeToolTip": "SeleniumTest\\Locators.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwC4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T17:42:31.949Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SortWebTables.cs",
+              "DocumentMoniker": "C:\\Users\\SWETA HOME\\OneDrive\\Desktop\\Selenium-Test-Automation\\SeleniumTestAutomation\\SeleniumTest\\Projects\\SortWebTables.cs",
+              "RelativeDocumentMoniker": "SeleniumTest\\Projects\\SortWebTables.cs",
+              "ToolTip": "C:\\Users\\SWETA HOME\\OneDrive\\Desktop\\Selenium-Test-Automation\\SeleniumTestAutomation\\SeleniumTest\\Projects\\SortWebTables.cs",
+              "RelativeToolTip": "SeleniumTest\\Projects\\SortWebTables.cs",
+              "ViewState": "AgIAAEYAAAAAaWZmZmYRwEcAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T19:22:01.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AlertActionsAutoSuggestive.cs",
+              "DocumentMoniker": "C:\\Users\\SWETA HOME\\OneDrive\\Desktop\\Selenium-Test-Automation\\SeleniumTestAutomation\\SeleniumTest\\Projects\\AlertActionsAutoSuggestive.cs",
+              "RelativeDocumentMoniker": "SeleniumTest\\Projects\\AlertActionsAutoSuggestive.cs",
+              "ToolTip": "C:\\Users\\SWETA HOME\\OneDrive\\Desktop\\Selenium-Test-Automation\\SeleniumTestAutomation\\SeleniumTest\\Projects\\AlertActionsAutoSuggestive.cs",
+              "RelativeToolTip": "SeleniumTest\\Projects\\AlertActionsAutoSuggestive.cs",
+              "ViewState": "AgIAAEYAAAA4MzMzM7MiwFcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T19:21:22.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SeleniumTest",
+              "DocumentMoniker": "C:\\Users\\SWETA HOME\\OneDrive\\Desktop\\Selenium-Test-Automation\\SeleniumTestAutomation\\SeleniumTest\\SeleniumTest.csproj",
+              "RelativeDocumentMoniker": "SeleniumTest\\SeleniumTest.csproj",
+              "ToolTip": "C:\\Users\\SWETA HOME\\OneDrive\\Desktop\\Selenium-Test-Automation\\SeleniumTestAutomation\\SeleniumTest\\SeleniumTest.csproj",
+              "RelativeToolTip": "SeleniumTest\\SeleniumTest.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-13T19:19:37.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "E2ETest.cs",
+              "DocumentMoniker": "C:\\Users\\SWETA HOME\\OneDrive\\Desktop\\Selenium-Test-Automation\\SeleniumTestAutomation\\SeleniumTest\\E2ETest.cs",
+              "RelativeDocumentMoniker": "SeleniumTest\\E2ETest.cs",
+              "ToolTip": "C:\\Users\\SWETA HOME\\OneDrive\\Desktop\\Selenium-Test-Automation\\SeleniumTestAutomation\\SeleniumTest\\E2ETest.cs",
+              "RelativeToolTip": "SeleniumTest\\E2ETest.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T19:19:59.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FunctionalTest.cs",
+              "DocumentMoniker": "C:\\Users\\SWETA HOME\\OneDrive\\Desktop\\Selenium-Test-Automation\\SeleniumTestAutomation\\SeleniumTest\\FunctionalTest.cs",
+              "RelativeDocumentMoniker": "SeleniumTest\\FunctionalTest.cs",
+              "ToolTip": "C:\\Users\\SWETA HOME\\OneDrive\\Desktop\\Selenium-Test-Automation\\SeleniumTestAutomation\\SeleniumTest\\FunctionalTest.cs",
+              "RelativeToolTip": "SeleniumTest\\FunctionalTest.cs",
+              "ViewState": "AgIAABYAAAA4zczMzEwowBoAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T18:34:04.632Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UnitTest1.cs",
-              "DocumentMoniker": "C:\\Users\\SWETA HOME\\OneDrive\\Desktop\\Selenium-Test-Automation\\SeleniumTestAutomation\\SeleniumTest\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "SeleniumTest\\UnitTest1.cs",
-              "ToolTip": "C:\\Users\\SWETA HOME\\OneDrive\\Desktop\\Selenium-Test-Automation\\SeleniumTestAutomation\\SeleniumTest\\UnitTest1.cs",
-              "RelativeToolTip": "SeleniumTest\\UnitTest1.cs",
-              "ViewState": "AgIAAAUAAACAMzMzM3MvwA4AAABaAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "File.cs",
+              "DocumentMoniker": "C:\\Users\\SWETA HOME\\OneDrive\\Desktop\\Selenium-Test-Automation\\SeleniumTestAutomation\\SeleniumTest\\File.cs",
+              "RelativeDocumentMoniker": "SeleniumTest\\File.cs",
+              "ToolTip": "C:\\Users\\SWETA HOME\\OneDrive\\Desktop\\Selenium-Test-Automation\\SeleniumTestAutomation\\SeleniumTest\\File.cs",
+              "RelativeToolTip": "SeleniumTest\\File.cs",
+              "ViewState": "AgIAAAoAAADYzMzMzEwowBQAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-13T16:34:01.065Z",
+              "WhenOpened": "2026-01-13T17:28:05.291Z",
               "EditorCaption": ""
             }
           ]
